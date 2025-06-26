@@ -1,0 +1,2 @@
+# configuration_server_dev
+spring cloud configuration microservices properties
